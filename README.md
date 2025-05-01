@@ -185,7 +185,3 @@ Here are some examples of the Email Assistant in action:
 ### Response Draft 2
 
 ![Response Draft Example 2](examples/response-draft-2.jpeg)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
